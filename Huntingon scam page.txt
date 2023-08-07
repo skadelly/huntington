@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html class="u-g-legacy-html" lang="en-us">
+<head><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="keywords" content="Huntington bank login, Huntington online banking login" /><meta name="description" content="Log  in to your Huntington account to check your balance, transfer funds and more. Our online banking is secure and easy to use." /><meta name="viewport" content="width=device-width" /><meta name="viewport" content="initial-scale=1.0" /><title>
+	Huntington Online Banking Login | Huntington
+</title>
+        <!-- Code for the FavIcon placement -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/rol/Content/Images/holvthree/favicons/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="/rol/Content/Images/holvthree/favicons/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="/rol/Content/Images/holvthree/favicons/favicon-16x16.png" /><link rel="mask-icon" href="/rol/Content/Images/holvthree/favicons/safari-pinned-tab.svg" color="#5bbad5" /><link rel="shortcut icon" href="/rol/Content/Images/holvthree/favicons/favicon.ico" /><meta name="msapplication-TileColor" content="#da532c" /><meta name="msapplication-config" content="/Content/Images/holvthree/favicons/browserconfig.xml" /><meta name="theme-color" content="#ffffff" />
+    <!-- Code for the FavIcon placement -->
+    
+<script type="text/javascript" src="/rol/ruxitagentjs_ICA27NVfgjqrux_10265230425083909.js" data-dtconfig="rid=RID_-603401494|rpid=384571353|domain=huntington.com|reportUrl=/rb_55ab56e3-f58b-45f8-a01d-56e2db48866f|uam=1|app=e901f9adc46e5a00|featureHash=ICA27NVfgjqrux|vcv=2|rdnt=0|uxrgce=1|bp=3|cuc=m1fm4lts|mel=100000|ssv=4|lastModification=1691165598978|dtVersion=10265230425083909|tp=500,50,0,1|agentUri=/ruxitagentjs_ICA27NVfgjqrux_10265230425083909.js"></script><link rel="stylesheet" href='/rol/Styles/Structure/960/reset.css' media="all" />
+<link rel="stylesheet" href='/rol/Styles/Structure/960/text.css' media="all" />
+<link rel="stylesheet" href='/rol/Styles/Structure/960/960_16_col.css' media="screen" />
+<link rel="stylesheet" href='/rol/Styles/Presentation/huntington-rol.css?holv=638253775940000000' media="screen" />
+<link rel="stylesheet" href='/rol/Styles/Presentation/propertyClasses.css' media="all" />
+<link rel="stylesheet" href='/rol/Styles/Presentation/widgets.css' media="screen" />
+<link rel="stylesheet" href='/rol/Styles/Navigation/NavBar.css' media="screen" />
+<link rel="stylesheet" href='/rol/Styles/Presentation/huntington-rol-print.css' media="print" />
+<link rel="stylesheet" href='/rol/Styles/JQueryUIThemes/custom-theme/jquery-ui-1.8.9.custom.css' />
+<link rel="stylesheet" href='/rol/Styles/Presentation/modal-dialog.css' media="screen" />
+<link rel="stylesheet" href='/rol/Styles/hnb.aria.common.css' />
+
+<!--[if (IE 7)|(IE 8)]>
+<link rel="stylesheet" href='../Styles/IE/ie7-8.css' media="all" />
+<![endif]-->
+
+<!--[if (IE 7)]>
+<link rel="stylesheet" href='../Styles/IE/ie7.css' media="all" />
+<![endif]-->
+<!--Analytics Domain Layer-->
+<script>
+var dataLayer = {"user":null,"version":"0.1","page":{"name":"olb: login","pageType":"","pageSubType":"","isBranchFlow":false,"nuanceId":null},"search":null,"messages":["try:/Auth/login.aspx","locate|/Auth/login.aspx|->||"],"ads":[],"props":[],"evars":[],"events":[{"name":"event183","value":null,"condition":null}],"stagedLinkClicks":[]};
+</script>
+<script id='site-survey-context' class='site-survey-context' data-custom-variables_customer-id='' data-custom-variables_id-hash='' data-custom-variables_customer-segment='' data-site-survey-context_segment='' ></script><script defer src='/rol/ensightenBootstrap.js'></script>
+
+<script>var HolConfig = {"SiteRoot":"","SiteCatalystSuite":null,"IsEnsightenEnabled":false,"SessionWarningSeconds":1050,"SessionGracePeriodSeconds":90}</script>
+
+    <script type="text/javascript" src='/rol/Script/jquery-3.1.1.min.js'></script>
+      <script type="text/javascript" src='/rol/Script/jQuery/Extensions/safeready.js'></script>
+    <script src='/rol/Script/jquery.autotab.js'></script>
+    
+  
+    <script type="text/javascript">
+        function Message(sMessage, sParams) {
+            window.open(sMessage, "", sParams);
+        }
+    </script>
+    
+<!--[if IE 7]>
+    <script src='../Script/IE/button-outlines-ie7.js'></script>
+<![endif]-->
+    <link rel="stylesheet" href='/rol/Styles/Presentation/Auth/Auth.css' />
+    <script src='/rol/Script/jquery.cookie/jquery.cookie.js' type="text/javascript"></script>
+    <script type="text/javascript" src='/rol/Script/Ajax/json2.min.js'></script>
+<script>
+window.contentPathname = location.pathname.replace(/\/rol\d/, '/rol');window.contentPathname = window.contentPathname.replace(/[\d\/]*$/, '');
+if (! window.contentPathname.indexOf('/rol/') === 0) window.contentPathname = '/rol/' + window.contentPathname;
+window.contentPathname = window.contentPathname.replace('//', '/');
+</script>
+<script src='https://www.huntington.com/-/fxm/web/' defer></script>
+<style type='text/css'>body { display: none; }</style>
+</head>
+<body>
+    <form name="form1" method="post" action="./login.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/rol/WebResource.axd?d=KAutdTcH6alKTOWlncDH0iHQ__xOFzNke7aCWGDC2l63YcVuZ-gbUvFHEqH8q7F3WBGprILGYm-bugzBljgzMFykfYE1&amp;t=637814473746327080" type="text/javascript"></script>
+
+
+<script src="/rol/WebResource.axd?d=UJBIZYk7tZcvj4IFYmffqt09OUlhISSdhcduBbwyVnp-a6akR3trXAKcmbO7w4DRjTrT_SxsUCD4Nl0vuWb81_Jv1SQ1&amp;t=637814473746327080" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="442DF5CE" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="fZic2gRRRWR1PCuj9kyma+QE7oNQ+gWdgTgsbW0hBNSTqQCsQJVz8EEQdiBfBomM01jOBq/vcFILkxtxVP50iFNJt/Ev4dwko4ubpSco2l/HTzt3OnBI5om0ss67l4ml5Za9Ct4d1SOlH8CETjFkWV518Ff8r3Pcp9lc7/ZcVupD7dF7" />
+</div>
+        <div class="Messages">
+            <div id="LivePersonChat1_pnlLivePerson">
+	
+    <div id='ensighten-chat'></div>
+
+</div>
+
+            
+            <div id="fab-area"></div>
+            
+            <div id="site-survey"></div>
+        </div>
+        
+                            <div id="container" class="container_16">
+                                <div class="grid_16 clearfix">
+                                    <div id="header">
+                                        <div class="grid_4 alpha">
+                                            <a id="hnbLogoLink">
+<img id="hnbLogoImg" alt="Huntington - Welcome&trade;" src='/rol/Images/UI/logo-lg.png'  /></a>
+                                        </div>
+                                        <div class="grid_12 omega clearfix">
+                                            <div id="messageBoxContainer" role="navigation" class="clearfix">
+                                                <div class="WelcomeMessage" role="menubar">
+                                                    <a id="hlContactUS" role="menuitem" title="Contact Us" rel="noopener noreferrer" href="https://www.huntington.com/customer-service/contact-us" target="_blank">Contact Us</a>
+                                                    
+                                                    
